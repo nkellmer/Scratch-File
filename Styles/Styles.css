@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: grey;
+}
+li {
+    font-size: 12px;
+    font-style: italic;
+    color: black;
+    font-weight: normal;
+
+}
+a {
+
+color: rgb(18, 160, 160);
+}
+.resumeListHeading {
+    font-weight: bold;
+    font-style: normal;
+}
+
+.underline {
+    text-decoration: underline;
+}
+.bold {
+    font-weight: bold;
+}
+
+.homebg {
+    background-color: bisque;
+}
